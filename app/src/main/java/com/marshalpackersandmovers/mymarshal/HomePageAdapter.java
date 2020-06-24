@@ -316,7 +316,7 @@ public class HomePageAdapter extends RecyclerView.Adapter {
                                 quotationModel.setFreeCoupons(task.getResult().getLong("free_coupons"));
                                 quotationModel.setCuttedPrice(task.getResult().getString("cutted_price"));
                                 quotationModel.setCOD(task.getResult().getBoolean("COD"));
-                                quotationModel.setInStock(task.getResult().getLong("stock_quantitiy")>0);
+                                quotationModel.setInStock(task.getResult().getLong("stock_quantity")>0);
 
                                 if(horizontalProductScrollModelList.indexOf(model)== horizontalProductScrollModelList.size()-1){
                                     if(horizontalRecyclerView.getAdapter()!=null){
