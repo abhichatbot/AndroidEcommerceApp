@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "890154195153",
+    "firebase_url": "https://marshal-app-185c0.firebaseio.com",
+    "project_id": "marshal-app-185c0",
+    "storage_bucket": "marshal-app-185c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890154195153:android:b46e38fb477c10b3b34df0",
+        "android_client_info": {
+          "package_name": "com.marshalpackersandmovers.mymarshal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890154195153-19gctdabaf59v50t2459e93t4n79ji06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDZDXFTFwAuccjhyofkJNsnWnlGiPkZYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890154195153-19gctdabaf59v50t2459e93t4n79ji06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
