@@ -198,6 +198,7 @@ public class MyAccountFragment extends Fragment {
             }
         });
 
+        loadingDialog.dismiss();
         return view;
     }
 
